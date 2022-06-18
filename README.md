@@ -1,1 +1,1 @@
-# Cake Shop Inventory Sysytem
+# Cake Shop Inventory System
